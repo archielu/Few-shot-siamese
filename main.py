@@ -127,26 +127,4 @@ if __name__ == '__main__':
 	print("#"*70)
 	print("final accuracy: ", acc/20)
 
-
-
-
-
-
-		
-
-
-
-
-
-	
-
-	
-		
-
-
-
-
-
-	
-
 	
