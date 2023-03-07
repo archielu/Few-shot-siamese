@@ -18,4 +18,5 @@ Prepare sevaral groups of data, each group contains 1 positive pair and [group_s
 [BCELoss](https://pytorch.org/docs/stable/generated/torch.nn.BCELoss.html)
 
 ## Result
-
+**Accuracy:** 0.900
+![img](https://github.com/archielu/Few-shot-siamese/blob/main/Accuracy.png)
