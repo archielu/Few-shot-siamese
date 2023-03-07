@@ -17,5 +17,5 @@ Prepare sevaral groups of data, each group contains 1 positive pair and [group_s
 ## Loss Function
 [BCELoss](https://pytorch.org/docs/stable/generated/torch.nn.BCELoss.html)
 
-
+## Result
 
